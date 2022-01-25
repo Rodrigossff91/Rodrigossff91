@@ -28,9 +28,11 @@
  
 </div>
   
-  Módulo I⁣
+Módulo I⁣
 
 Tipos de componentes Dart⁣
+
+⁣
 
 • Widgets⁣
 
@@ -45,6 +47,8 @@ Tipos de componentes Dart⁣
 Módulo II﻿⁣
 
 Modularização⁣
+
+⁣
 
 • Mono-Repo x Multi-Repo⁣
 
@@ -66,6 +70,8 @@ Módulo II﻿⁣I
 
 Testes Unitários⁣
 
+⁣
+
 • Testes Unitário⁣
 
 • Mocks com Mocktail⁣
@@ -75,6 +81,8 @@ Testes Unitários⁣
 Módulo II﻿V
 
 Lint e Melhores Práticas de Código
+
+
 
 • Lint
 
@@ -88,6 +96,8 @@ Módulo V
 
 Melhores Práticas de Arquitetura
 
+
+
 • Set State
 
 • Bloc
@@ -100,21 +110,23 @@ Melhores Práticas de Arquitetura
 
 • Clean Dart
 
-  
-  
+
+
 Módulo VI⁣
 
 Integração Flutter < - > Nativo pré existente
 
+
+
 • Platform Channel
 
 • Flutter Modules
-  
-  
 
 Módulo VI⁣I⁣
 
 Setup de ambientes fechados⁣
+
+⁣
 
 • iOS e Android certificados⁣
 
@@ -126,6 +138,8 @@ Módulo VI⁣II
 
 DaaC (Doc as Code)⁣
 
+⁣
+
 • Como documentar funções e widgets⁣
 
 • Dartdoc⁣
@@ -136,18 +150,20 @@ Módulo IX
 
 Animações⁣
 
+⁣
+
 • Controladas⁣
 
 • Implícitas (ex: AnimatedBuilder)⁣
 
 • Lottie (After Effects)
-  
-  
 
 Módulo X⁣
 
 Internacionalização⁣
- 
+
+⁣
+
 • i18n()⁣
 
 • Internacionalização Local⁣
@@ -160,6 +176,8 @@ Módulo XI
 
 Estilização para diferentes plataformas ⁣
 
+⁣
+
 • Design System⁣
 
 • Platform.isAndroid⁣
@@ -171,6 +189,8 @@ Estilização para diferentes plataformas ⁣
 Módulo XII
 
 Boas Práticas de Performance⁣
+
+⁣
 
 • Controladas⁣
 
