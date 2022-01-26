@@ -164,4 +164,6 @@ Designer Patterns com Dart
 
 • Singleton Pattern
   
+• Builder Pattern
+  
   
