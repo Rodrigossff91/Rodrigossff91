@@ -59,9 +59,7 @@ Modularização⁣
 • Consumir Tag (github)⁣
 
 • Pub Local⁣
-
-⁣
-
+  
 # Módulo II﻿⁣I
 
 Testes Unitários⁣
@@ -71,9 +69,7 @@ Testes Unitários⁣
 • Mocks com Mocktail⁣
 
 • Teste de Widget
-
-
-
+  
 # Módulo II﻿V
 
 Lint e Melhores Práticas de Código
@@ -83,9 +79,7 @@ Lint e Melhores Práticas de Código
 • Effective Dart
 
 • Pedantic
-
-
-
+  
 # Módulo V
 
 Melhores Práticas de Arquitetura
@@ -101,9 +95,7 @@ Melhores Práticas de Arquitetura
 • Change Notifier
 
 • Clean Dart
-
-
-
+  
 # Módulo VI⁣
 
 Integração Flutter < - > Nativo pré existente
@@ -111,9 +103,7 @@ Integração Flutter < - > Nativo pré existente
 • Platform Channel
 
 • Flutter Modules
-
-
-
+  
 # Módulo VI⁣I⁣
 
 Setup de ambientes fechados⁣
@@ -121,9 +111,7 @@ Setup de ambientes fechados⁣
 • iOS e Android certificados⁣
 
 • Flavor⁣
-
-⁣
-
+  
 # Módulo VI⁣II
 
 DaaC (Doc as Code)⁣
@@ -131,9 +119,7 @@ DaaC (Doc as Code)⁣
 • Como documentar funções e widgets⁣
 
 • Dartdoc⁣
-
-⁣
-
+  
 # Módulo IX
 
 Animações⁣
@@ -143,9 +129,7 @@ Animações⁣
 • Implícitas (ex: AnimatedBuilder)⁣
 
 • Lottie (After Effects)
-
-
-
+  
 # Módulo X⁣
 
 Internacionalização⁣
@@ -155,9 +139,7 @@ Internacionalização⁣
 • Internacionalização Local⁣
 
 • Internacionalização Online⁣
-
-⁣
-
+  
 # Módulo XI
 
 Estilização para diferentes plataformas ⁣
@@ -167,9 +149,7 @@ Estilização para diferentes plataformas ⁣
 • Platform.isAndroid⁣
 
 • Platform.isIOS⁣
-
-⁣
-
+  
 # Módulo XII
 
 Boas Práticas de Performance⁣
