@@ -157,5 +157,11 @@ Boas Práticas de Performance⁣
 • Implícitas (ex: AnimatedBuilder)⁣
 
 • Lottie (After Effects)
+  
+# Módulo XIII
 
+Designer Patterns com Dart
+
+• Singleton Pattern
+  
   
