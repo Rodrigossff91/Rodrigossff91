@@ -34,9 +34,9 @@ Tipos de componentes Dart⁣
 
 • Widgets⁣
 
-• Stateful⁣
+• Stateful⁣ - https://www.youtube.com/watch?v=mIqbraKbgyA
 
-• Stateless⁣
+• Stateless⁣ - https://www.youtube.com/watch?v=mIqbraKbgyA
 
 • Custom Widgets⁣
 
