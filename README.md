@@ -39,9 +39,7 @@ Tipos de componentes Dart⁣
 • Stateless⁣ - https://www.youtube.com/watch?v=mIqbraKbgyA
 
 • Custom Widgets⁣
-
-⁣
-
+  
 # Módulo II﻿⁣
 
 Modularização⁣
