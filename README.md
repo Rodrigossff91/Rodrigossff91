@@ -74,7 +74,7 @@ Lint e Melhores Práticas de Código
 
 • Lint
 
-• Effective Dart
+• Effective Dart - https://youtu.be/VbXhuXJrC6g
 
 • Pedantic
   
