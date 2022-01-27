@@ -168,4 +168,6 @@ Designer Patterns com Dart
   
 • Factory Method - https://www.youtube.com/watch?v=oy9_7fEiBl4&list=PLEXr-WZRgPjx91nHEbsdlge66FhTV8r-Y&index=4
   
+• Adapter - https://www.youtube.com/watch?v=1A3dSh_eLIQ&list=PLEXr-WZRgPjx91nHEbsdlge66FhTV8r-Y&index=5
+  
   
