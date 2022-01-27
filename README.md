@@ -162,10 +162,10 @@ Boas Práticas de Performance⁣
 
 Designer Patterns com Dart
 
-• Singleton Pattern
+• Singleton Pattern - https://www.youtube.com/watch?v=Yx-45aj4sBI&list=PLEXr-WZRgPjx91nHEbsdlge66FhTV8r-Y&index=1
   
-• Builder Pattern
+• Builder Pattern - https://www.youtube.com/watch?v=x5u9VOdnZ3Q&list=PLEXr-WZRgPjx91nHEbsdlge66FhTV8r-Y&index=2
   
-• Factory Method
+• Factory Method - https://www.youtube.com/watch?v=oy9_7fEiBl4&list=PLEXr-WZRgPjx91nHEbsdlge66FhTV8r-Y&index=4
   
   
