@@ -172,4 +172,12 @@ Designer Patterns com Dart
   
 • Composite Pattern - https://www.youtube.com/watch?v=s95LyJ5LK40&list=PLEXr-WZRgPjx91nHEbsdlge66FhTV8r-Y&index=6
   
+ # Módulo XIV
+ 
+Responsivo/Adaptativo
+  
+• MediaQuery
+  
+• LayoutBuilder
+  
   
