@@ -166,4 +166,6 @@ Designer Patterns com Dart
   
 • Builder Pattern
   
+• Factory Method
+  
   
