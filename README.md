@@ -170,4 +170,6 @@ Designer Patterns com Dart
   
 • Adapter - https://www.youtube.com/watch?v=1A3dSh_eLIQ&list=PLEXr-WZRgPjx91nHEbsdlge66FhTV8r-Y&index=5
   
+• Composite Pattern - https://www.youtube.com/watch?v=s95LyJ5LK40&list=PLEXr-WZRgPjx91nHEbsdlge66FhTV8r-Y&index=6
+  
   
