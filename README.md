@@ -176,8 +176,8 @@ Designer Patterns com Dart
  
 Responsivo/Adaptativo
   
-• MediaQuery
+• MediaQuery - https://www.youtube.com/watch?v=WSRn9G66xwg&t=35s
   
-• LayoutBuilder
+• LayoutBuilder - https://www.youtube.com/watch?v=WSRn9G66xwg&t=35s
   
   
