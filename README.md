@@ -40,6 +40,8 @@ Tipos de componentes Dart⁣
 
 • Custom Widgets⁣
   
+• Dart Extensions - https://www.youtube.com/watch?v=vik4dGb_SHQ
+  
 # Módulo II﻿⁣
 
 Modularização⁣
