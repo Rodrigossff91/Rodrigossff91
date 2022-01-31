@@ -86,7 +86,7 @@ Melhores Práticas de Arquitetura
 
 • Set State
 
-• Bloc
+• Bloc - https://www.youtube.com/watch?v=O_aCeyqRtjc
 
 • Provider
 
