@@ -89,6 +89,8 @@ Melhores Práticas de Arquitetura
 • Bloc - https://www.youtube.com/watch?v=O_aCeyqRtjc
 
 • Provider
+  
+• ValueNotifier
 
 • MobX - https://www.youtube.com/watch?v=09a5gCnOH7I&list=PLHAtJbrQ17AXF-_Yi1REooQ5_t2aqLUyM&index=2
 
